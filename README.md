@@ -14,6 +14,7 @@ Desenvolvedor Backend | Backend Developer
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
   ![CSharp](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=CSharp)
+  ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
