@@ -49,7 +49,7 @@ Desenvolvedor Backend | Backend Developer
 
 ### 👥 Conecte-se Comigo | 👥 Connect With Me
 
-<a href="https://www.linkedin.com/in/adriano-lima-0169a91b0/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/adrianoals/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 
 
 
