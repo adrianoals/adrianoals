@@ -31,7 +31,7 @@ Desenvolvedor Backend | Backend Developer
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=F80000)
   ![SQLServer](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoftsqlserver&logoColor=CC2927)
   ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
-  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=Postgres)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
 
 - BI:  &nbsp;
   ![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=PowerBI)
