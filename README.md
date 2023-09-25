@@ -5,7 +5,7 @@ Desenvolvedor Backend | Backend Developer
 ### 💫 Um Pouco Mais Sobre Mim | ### 💫 Liitle Bit More About Me
 
 - 📚🎓 Cursando Análise e Desenvolvimento de Sistemas na FIAP | 📚🎓 Studying Systems Analysis and Development at FIAP
-- 📖👨‍💻 Meu foco de estudos inclui Python, backend, automações e análise de dados.  | 📖👨‍💻 My areas of study include Python, backend development, automations, and data analysis.
+- 📖👨‍💻 Meu foco de estudos inclui Python, backend, automações e mobile iOS.  | 📖👨‍💻 My areas of study include Python, backend development, automations and mobile iOS
 - ✅🎈 Estou sempre aberto a novas oportunidades e desafios | ✅🎈 I am always open to new opportunities and challenges.
 
 ## 🛠 Stack De Tecnologias | 🛠 Tech Stack
