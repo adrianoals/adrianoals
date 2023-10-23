@@ -33,6 +33,7 @@ Desenvolvedor Backend | Backend Developer
   ![SQLServer](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoftsqlserver&logoColor=CC2927)
   ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
 - BI:  &nbsp;
   ![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=PowerBI)
