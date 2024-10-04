@@ -38,7 +38,7 @@ Desenvolvedor Backend | Backend Developer
 
 - Cloud & DevOps:  &nbsp;
   ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS)
-  ![AZURE]
+  ![AZURE](https://img.shields.io/badge/-AZURE-333333?style=flat&logo=AZURE)
 
 - IDEs: &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
