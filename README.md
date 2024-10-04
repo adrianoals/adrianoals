@@ -12,28 +12,23 @@ Desenvolvedor Backend | Backend Developer
 
 - Languages: &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
   ![CSharp](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=CSharp)
-  ![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=Swift)
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![PL/SQL](https://img.shields.io/badge/-PL/SQL-333333?style=flat&logo=PLSQL)
 
 - Frameworks: &nbsp;
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=092E20)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
   ![.Net](https://img.shields.io/badge/-.Net-333333?style=flat&logo=.Net)
-  ![Spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=.Spring)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-   ![UIKit](https://img.shields.io/badge/-UIKit-333333?style=flat&logo=UIKit)
 
 - Databases:  &nbsp;
   ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=F80000)
   ![SQLServer](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoftsqlserver&logoColor=CC2927)
   ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
-   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
 - BI:  &nbsp;
   ![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=PowerBI)
