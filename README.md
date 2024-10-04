@@ -36,8 +36,9 @@ Desenvolvedor Backend | Backend Developer
   ![Pentaho](https://img.shields.io/badge/-Pentaho-333333?style=flat&logo=Pentaho)
 
 
-- Chatbot:  &nbsp;
-  ![IBM Watson](https://img.shields.io/badge/-IBM%20Watson-333333?style=flat&logo=ibmwatson)
+- Cloud & DevOps:  &nbsp;
+  ![AWS]
+  ![AZURE]
 
 - IDEs: &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
