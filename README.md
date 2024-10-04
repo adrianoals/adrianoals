@@ -19,6 +19,8 @@ Desenvolvedor Backend | Backend Developer
 
 - Frameworks: &nbsp;
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=092E20)
+  ![Django Ninja](https://img.shields.io/badge/-DjangoNinja-333333?style=flat&logo=djangoninja&logoColor=092E20)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi&logoColor=092E20)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
   ![.Net](https://img.shields.io/badge/-.Net-333333?style=flat&logo=.Net)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
