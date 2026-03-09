@@ -1,99 +1,59 @@
-<![CDATA[# Hey, I'm Adriano 👋
+# **Olá👋, Eu sou o Adriano  | Hey 👋, I'm Adriano 🖐**
 
-**Full-Stack Developer** · Python Backend · AI & Automation
+Desenvolvedor Backend | Backend Developer
 
-Software engineer focused on building scalable backends, automation pipelines, and intelligent solutions with Python and AI. Experience shipping real products with Django, FastAPI, Node.js, Docker, and AWS. Currently pursuing an MBA in AI Software Engineering — deepening expertise in LLMs, LangChain, RAG, and vector databases.
+### 💫 Um Pouco Mais Sobre Mim | 💫 Liitle Bit More About Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianoals/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://adriano.xnap.com.br/)
-[![XNAP](https://img.shields.io/badge/XNAP-1a1a2e?style=for-the-badge&logoColor=3b82f6)](https://xnap-site.vercel.app/)
+- 📚🎓 Formado Análise e Desenvolvimento de Sistemas pela FIAP | 📚🎓 Graduated in Systems Analysis and Development from FIAP
+- 📖👨‍💻 Meu foco de estudos inclui backend e automações.  | 📖👨‍💻 My areas of study include backend development and automations
+- ✅🎈 Estou sempre aberto a novas oportunidades e desafios | ✅🎈 I am always open to new opportunities and challenges.
 
----
+## 🛠 Stack De Tecnologias | 🛠 Tech Stack
 
-### 🛠️ What I Build
+- Languages: &nbsp;
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![CSharp](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=CSharp)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-- **Backend services** with Python (FastAPI, Django) and Node.js — REST APIs, webhooks, data pipelines
-- **Full-stack applications** with Next.js, TypeScript, Supabase, and Tailwind CSS
-- **Automation & AI** — conversational agents, tool orchestration, function calling, prompt engineering
-- **Infrastructure** — Docker, AWS EC2, Nginx/Gunicorn, Vercel, CI/CD
+- Frameworks: &nbsp;
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django&logoColor=092E20)
+  ![Django Ninja](https://img.shields.io/badge/-DjangoNinja-333333?style=flat&logo=djangoninja&logoColor=092E20)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi&logoColor=092E20)
+  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+  ![.Net](https://img.shields.io/badge/-.Net-333333?style=flat&logo=.Net)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 
----
+- Databases:  &nbsp;
+  ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle&logoColor=F80000)
+  ![SQLServer](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoftsqlserver&logoColor=CC2927)
+  ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
 
-### ⚡ Tech Stack
+- BI:  &nbsp;
+  ![PowerBI](https://img.shields.io/badge/-PowerBI-333333?style=flat&logo=PowerBI)
+  ![Tableau](https://img.shields.io/badge/-Tableau-333333?style=flat&logo=Tableau)
+  ![Pentaho](https://img.shields.io/badge/-Pentaho-333333?style=flat&logo=Pentaho)
 
-**Backend**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+- Cloud & DevOps:  &nbsp;
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=AWS)
+  ![AZURE](https://img.shields.io/badge/-AZURE-333333?style=flat&logo=AZURE)
 
-**Frontend**
+- IDEs: &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=f70486)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### 👥 Conecte-se Comigo | 👥 Connect With Me
 
-**DevOps & Infra**
+<a href="https://www.linkedin.com/in/adrianoals/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**AI & Automation**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
----
 
-### 🏗️ Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Leitura Nova Platform**](https://github.com/adrianoals/LeituraNovaSite) | Water & gas meter reading platform with multi-role system (admin, syndic, resident) | Next.js 16, TypeScript, Supabase, Vercel |
-| [**Leitura Nova Django**](https://github.com/adrianoals/Leitura_Nova_Django) | Web app for condominium meter reading management — deployed on AWS | Django, Docker, AWS EC2, Nginx, Gunicorn |
-| [**Water Meter Report Generator**](https://github.com/adrianoals/Leitura-Boleto) | Automation tool built for Leitura Nova — generates PDF reports from Excel data | Python, Pillow, reportlab, pandas |
-| [**Consortium PDF API**](https://github.com/adrianoals/api-pdf-simulador) | REST API for consortium proposal PDF generation (10,000+ simulations/month) | Node.js, Express, TypeScript, Puppeteer, Supabase |
-| [**XNAP Website**](https://github.com/adrianoals/xnap-site) | Corporate website for my software company | Next.js 15, TypeScript, Tailwind CSS, Vercel |
-| [**Solid Apps Challenge**](https://github.com/adrianoals/solid-apps) | Technical challenge — CRUD app with documented AI-assisted development process | JavaScript, Back4App, Bubble |
-
----
-
-### 📚 Education
-
-- **MBA in AI Software Engineering** — FCTech (Full Cycle) · 2025 – Present
-- **Systems Analysis and Development** — FIAP · 2023 – Completed
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=adrianoals&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianoals&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-
-  **Open to new opportunities** · Remote/Hybrid (São Paulo, Brazil)
-
-  [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dri.limasantos@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrianoals/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://adriano.xnap.com.br/)
-
-</div>
-]]>
