@@ -1,4 +1,4 @@
-<![CDATA[# Hey, I'm Adriano 👋
+# Hey, I'm Adriano 👋
 
 **Full-Stack Developer** · Python Backend · AI & Automation
 
@@ -96,4 +96,3 @@ Software engineer focused on building scalable backends, automation pipelines, a
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://adriano.xnap.com.br/)
 
 </div>
-]]>
