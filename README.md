@@ -82,19 +82,6 @@ Software engineer focused on building scalable backends, automation pipelines, a
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrianoals&theme=tokyonight" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=adrianoals&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=adrianoals&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=adrianoals&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adrianoals&theme=tokyonight&utcOffset=-3" />
-</div>
-
----
-
 <div align="center">
 
   **Open to new opportunities** · Remote/Hybrid (São Paulo, Brazil)
